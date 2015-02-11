@@ -8,6 +8,7 @@
   <name>mywebapps Maven Webapp</name>
   <url>http://maven.apache.org</url>
 <!-- clone git edit -->
+  <!-- origin edit -->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
